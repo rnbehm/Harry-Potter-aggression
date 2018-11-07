@@ -29,3 +29,5 @@ CLUSTER COLUMN GRAPH (next hw)
  
  default for geom column with mult groups tiny narrow lines in each column ( want to sepearte this)
 stacked column graphs are almost always garbage = cluster is better (put next to eachother)
+
+#FORK MY REPO!!!!
