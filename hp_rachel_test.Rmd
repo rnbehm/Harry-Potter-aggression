@@ -1,0 +1,11 @@
+---
+title: "Harry Potter Lab Week 6"
+author: "Rachel Behm"
+date: "November 7, 2018"
+output: html_document
+---
+1. Load packages and rean in data
+```{r, include= FALSE}
+library(tidyverse)
+hp_data <- read_csv("harry_potter_aggression_full.csv")
+```
